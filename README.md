@@ -14,4 +14,4 @@ This project demonstrates the deployment of a static teaser website using Google
 3. Deploy the website using GKE and expose it via a Load Balancer.
 
 ## Authors
-[Your Team Name]
+Fiber Rangers
